@@ -23,7 +23,7 @@ Finally, let it keep learning in a for loop.
 ```python
 def gradient_descent_runner(points, starting_b, starting_m, learning_rate, num_iterations)
 ```
-![plot](D:\学校\大三上\交通运输系统分析\线性规划\GradientDescentExample-master\gradient_descent_example.gif)
+![plot](https://github.com/yukiiwong/Gradient-Descent-Algorithm-for-Linear-Regression/blob/master/gradient_descent_example.gif)
 ## gradient_descent_tensorflow.py
 Use less code
 
